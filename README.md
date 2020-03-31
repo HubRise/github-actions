@@ -13,5 +13,5 @@ Usage (in spec.yml):
 
     steps:
       - name: Switch DB root user to the legacy authentication plugin
-        uses: hubrise/custom-github-actions/db_authentication_plugin@v1.0
+        uses: HubRise/github-actions/db_authentication_plugin@v1.0
 ```
