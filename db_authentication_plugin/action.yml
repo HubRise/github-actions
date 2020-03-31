@@ -1,0 +1,4 @@
+name: 'DB authentication plugin'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
